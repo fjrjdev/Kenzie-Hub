@@ -3,8 +3,8 @@ Kenzie-Hub é um hub de portfólios de programadores, nele o usuário poderá se
 
 Bibliotecas utilizadas no projeto:
 
-React-Router-Dom
-Material UI
-LX-React-Form
-Axios
+React-Router-Dom |
+Material UI |
+LX-React-Form |
+Axios |
 React-Toastify
